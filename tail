@@ -1,0 +1,6 @@
+alias s='ls -la'
+alias r='cd ../'
+alias gs='git status'
+alias gl='git log --oneline --graph --decorate'
+
+export PS1='\[\e[32m\]\u\[\e[0m\]:\w\$ '
